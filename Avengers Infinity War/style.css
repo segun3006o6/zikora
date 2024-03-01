@@ -1,0 +1,39 @@
+body{
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+     margin: 100px;
+     background: linear-gradient(to right, #5f5c5c, #6a23c1)
+}
+.container{
+    background-color: transparent;
+}
+.container_1 img{
+    border-radius: 20px;
+    width: 530px;
+   }
+
+.container{
+  text-align: left;
+  margin-left: 15px;
+
+}
+
+.countdown{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 65%;
+}
+
+.count{
+    background: goldenrod;
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+    color: #6a23c1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
